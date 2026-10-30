@@ -1,0 +1,28 @@
+{
+  "name": "imagemin",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Dinesh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-cache": "^1.1.3",
+    "gulp-imagemin": "^9.1.0",
+    "gulp-webp": "^5.1.0",
+    "imagemin-pngquant": "^10.0.0",
+    "imagemin-webp": "^8.0.0"
+  },
+  "allowScripts": {
+    "cwebp-bin@8.0.0": true,
+    "gifsicle@5.3.0": true,
+    "mozjpeg@8.0.0": true,
+    "optipng-bin@7.0.1": true,
+    "core-js@3.49.0": true,
+    "pngquant-bin@9.0.0": true
+  }
+}
