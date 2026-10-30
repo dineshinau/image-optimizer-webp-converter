@@ -2,7 +2,6 @@
   "name": "image-optimizer-webp-converter",
   "version": "1.0.0",
   "description": "Convert png, jpg, jpeg, aivf and other formats to optimized webp format and reduce sized to use on web or blogs",
-  "license": "ISC",
   "author": "dineshinau",
   "type": "module",
   "main": "index.js",
